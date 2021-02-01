@@ -18,5 +18,5 @@ lol.js chooses a [pseudo-random](https://random.org) string, and chooses a non-e
 You can: 
 1. Include it from GitHub
 2. ```git clone https://github.com/lerichardson/lol.js``` or ```gh repo clone lerichardson/lol.js```
-3. Have a cow deliver it to you. (NPM coming soon)
+3. Have a cow deliver it to you. (NPM coming soon)  
 Make sure to read the [instructions](https://lerichardson.github.io/lol.js/getting-started).
