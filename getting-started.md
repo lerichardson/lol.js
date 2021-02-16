@@ -24,4 +24,4 @@ Using `git`:
   git clone https://github.com/lerichardson/lol.js.git
 ```
 ## Get it from a cow
-  We don't have this option avalible yet
+  We don't have NPM avalible yet
